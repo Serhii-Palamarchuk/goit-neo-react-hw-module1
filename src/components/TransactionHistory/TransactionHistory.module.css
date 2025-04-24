@@ -1,0 +1,25 @@
+.transactionTable {
+  width: 600px;
+  margin: 20px auto;
+  border-collapse: collapse;
+  font-family: sans-serif;
+  text-align: center;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.transactionTable th {
+  background-color: #2e2e2e;
+  color: #fff;
+  padding: 12px;
+  font-weight: bold;
+  border: 1px solid #ccc;
+}
+
+.transactionTable td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.grayRow {
+  background-color: #e2e2e2;
+}
